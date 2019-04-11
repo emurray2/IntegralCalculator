@@ -1,7 +1,13 @@
 # IntegralCalculator
 This is a JavaScript program that I made to help me calculate Integrals for Calculus I
 
-How To Use:
+Setting Up The Project
+1. Clone this repository or download all of the files
+2. Check to make sure you have all three files
+3. Make sure all of the files are in one folder
+4. Right click the index.html file and select the option where you can open it with your web browser
+
+How To Use (After Setting Up The Project):
 1. When the first prompt comes up, enter the function that you want to calculate the integral of. 
 NOTE: You need to enter this function in a way that Java can understand it, or else you will get an error.
 Example: To calculate 2x you could type 2*x
