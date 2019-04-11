@@ -3,7 +3,7 @@ This is a JavaScript program that I made to help me calculate Integrals for Calc
 
 Setting Up The Project
 1. Clone this repository or download all of the files
-2. Check to make sure you have all three files
+2. Check to make sure you have all three files (You don't really need the README, only for your reference)
 3. Make sure all of the files are in one folder
 4. Right click the index.html file and select the option where you can open it with your web browser
 
